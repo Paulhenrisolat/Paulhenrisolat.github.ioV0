@@ -34,7 +34,7 @@ body { padding-top: 50px; }
  width: 100%; height: 0px; margin-top: 15px; content: ''; display: block;}
 
 .rubrique { margin-bottom: 15px; }
-.rubrique h2 { color: rgb(0,226,7); }
+.rubrique h2 { color: rgb(156,0,0); }
 .rubrique h2::before{ margin-right: 5px; }
 .rubrique p{ font-size: 1.3em; line-height: 1.5em; }
 
