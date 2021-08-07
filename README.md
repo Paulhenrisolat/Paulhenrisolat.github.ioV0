@@ -14,7 +14,7 @@ Portfolio de Paul-Henri Solat, étudiant en BTS SIO
 + **GitHub:** Forge logicielle en ligne utilisant Git
 
 **2. Pour l'épreuve E6**
-+ Je me présente et présentemon parcours, j'affiche mon CV
++ Je me présente et présente mon parcours, j'affiche mon CV
 + Je parle des projets que j'ai réalisé, je bascule sur les pages correspondantes
 + Je parle des stages que j'ai effectué et des projets auxquels j'ai participé, je bascule sur les pages correspondantes
 + Je présente mes bonnes pratiques :
