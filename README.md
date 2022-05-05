@@ -34,3 +34,4 @@ Portfolio de Paul-Henri Solat, étudiant en BTS SIO
 **4. Pour mon identité numérique**
 + Cela fait un point d'entrée professionnel à donner lorsque je postule à un stage, à une poursuite d'études ou à un emploi
 + Cela permettra de me faire référencer par les moteurs de recherches (si on me recherche suite à la reception de mon CV)
++ Portfolio actuel -> https://paulhenrisolat.fr/ <-
